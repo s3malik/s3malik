@@ -1,7 +1,5 @@
 <img src="assets/snake.svg" alt="A small snake game playing itself in a terminal window." width="100%">
 
-<br>
-
 ### Huh? What's that? It eats, it grows, and sooner or later it gets in its own way. Not a metaphor for software..... ok fine, a bit. But it did get your attention, so:
 
 <br>
