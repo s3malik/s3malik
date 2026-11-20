@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="48" viewBox="0 0 160 48" role="img" aria-label="There could be your logo here">
+  <rect x="1.5" y="1.5" width="157" height="45" rx="8" fill="none" stroke="#8b949e" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b949e" text-anchor="middle">
+    <text x="80" y="21">There could be</text>
+    <text x="80" y="37">your logo here</text>
+  </g>
+</svg>

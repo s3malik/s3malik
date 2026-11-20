@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-label="Terminal. whoami: software engineer, Zürich. tree: work is backend services, data pipelines, full-stack web apps; languages Python, TypeScript, JavaScript, SQL; frameworks Django, Flask, React, Next.js, Node; data PostgreSQL, Docker, Linux, HPC; methods Git, Scrum, CI/CD, OWASP Top 10. git log: initial commit CODE University Berlin, 2020 Weizenbaum Institute, 2022 INFICON, 2022 ETH Zürich, 2024 Snyk (HEAD).">
+  <rect x="1" y="1" width="1198" height="678" rx="12" fill="#161b22"/>
+  <path d="M1,13 a12,12 0 0 1 12,-12 h1174 a12,12 0 0 1 12,12 v43 h-1198 z" fill="#21262d"/>
+  <line x1="1" y1="56" x2="1199" y2="56" stroke="#30363d" stroke-width="1"/>
+  <circle cx="30" cy="29" r="7" fill="#ff5f56"/>
+  <circle cx="52" cy="29" r="7" fill="#ffbd2e"/>
+  <circle cx="74" cy="29" r="7" fill="#27c93f"/>
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="23">
+    <text x="600" y="35" font-size="17" fill="#8b949e" text-anchor="middle">saad · zsh · 80×24</text>
+
+    <text x="48" y="102"><tspan fill="#7ee787">$ </tspan><tspan fill="#ffa657">whoami</tspan></text>
+    <text x="48" y="136"><tspan fill="#e6edf3">software engineer</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e6edf3">zürich</tspan></text>
+
+    <text x="48" y="180"><tspan fill="#7ee787">$ </tspan><tspan fill="#ffa657">tree</tspan><tspan fill="#a5d6ff"> ~/saad</tspan></text>
+    <text x="48" y="214" fill="#a5d6ff">~/saad</text>
+    <text y="248"><tspan x="48" fill="#8b949e">├──</tspan><tspan x="103" fill="#79c0ff">work</tspan><tspan x="283" fill="#e6edf3">backend services</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e6edf3">data pipelines</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e6edf3">full-stack web apps</tspan></text>
+    <text y="282"><tspan x="48" fill="#8b949e">├──</tspan><tspan x="103" fill="#79c0ff">languages</tspan><tspan x="283" fill="#e6edf3">python</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e6edf3">typescript</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e6edf3">javascript</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e6edf3">sql</tspan></text>
+    <text y="316"><tspan x="48" fill="#8b949e">├──</tspan><tspan x="103" fill="#79c0ff">frameworks</tspan><tspan x="283" fill="#e6edf3">django</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e6edf3">flask</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e6edf3">react</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e6edf3">next.js</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e6edf3">node</tspan></text>
+    <text y="350"><tspan x="48" fill="#8b949e">├──</tspan><tspan x="103" fill="#79c0ff">data</tspan><tspan x="283" fill="#e6edf3">postgresql</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e6edf3">docker</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e6edf3">linux</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e6edf3">hpc</tspan></text>
+    <text y="384"><tspan x="48" fill="#8b949e">└──</tspan><tspan x="103" fill="#79c0ff">methods</tspan><tspan x="283" fill="#e6edf3">git</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e6edf3">scrum</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e6edf3">ci/cd</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#e6edf3">owasp top 10</tspan></text>
+
+    <text x="48" y="428"><tspan fill="#7ee787">$ </tspan><tspan fill="#ffa657">git</tspan><tspan fill="#e6edf3"> log</tspan><tspan fill="#d2a8ff"> --oneline --reverse</tspan><tspan fill="#a5d6ff"> ~/career</tspan></text>
+    <text y="462"><tspan x="48" fill="#e3b341">init</tspan><tspan x="131" fill="#79c0ff">code-university</tspan><tspan x="434" fill="#c9d1d9">initial commit · berlin</tspan></text>
+    <text y="496"><tspan x="48" fill="#e3b341">2020</tspan><tspan x="131" fill="#79c0ff">weizenbaum-institut</tspan><tspan x="434" fill="#c9d1d9">working student · flask &amp; javascript</tspan></text>
+    <text y="530"><tspan x="48" fill="#e3b341">2022</tspan><tspan x="131" fill="#79c0ff">inficon</tspan><tspan x="434" fill="#c9d1d9">sensor data pipelines · 35% faster</tspan></text>
+    <text y="564"><tspan x="48" fill="#e3b341">2022</tspan><tspan x="131" fill="#79c0ff">eth-zürich</tspan><tspan x="434" fill="#c9d1d9">research software · hpc on euler</tspan></text>
+    <text y="598"><tspan x="48" fill="#e3b341">2024</tspan><tspan x="131" fill="#79c0ff">snyk</tspan><tspan fill="#39c5cf"> (HEAD)</tspan><tspan x="434" fill="#c9d1d9">vulnerability data · alerting services</tspan></text>
+
+    <text x="48" y="642"><tspan fill="#7ee787">$ </tspan></text>
+  </g>
+  <rect x="78" y="622" width="13" height="26" fill="#e6edf3">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="1" y="1" width="1198" height="678" rx="12" fill="none" stroke="#30363d" stroke-width="2"/>
+</svg>
